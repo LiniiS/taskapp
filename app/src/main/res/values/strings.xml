@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gerenciador de Tarefas</string>
+    <string name="tarefa_hint">Digite uma nova tarefa</string>
+    <string name="add_task_button">Adicionar Tarefa</string>
+    <string name="sync_button">Sincronizar Tarefas</string>
+    <string name="login_button">Login</string>
+    <string name="username_hint">Usuário</string>
+    <string name="password_hint">Senha</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="sincronizar_tarefas">Sincronizar Tarefas</string>
+    <string name="edite_a_tarefa">Edite a tarefa</string>
+    <string name="salvar">Salvar</string>
+</resources>
